@@ -12,7 +12,7 @@ let package = Package(
     name: "AEXML",
     platforms: [
         .iOS(.v9),
-        .macOS(.v10_10),
+        .macOS(.v10_13),
         .tvOS(.v9),
         .watchOS(.v3)
     ],
